@@ -76,7 +76,7 @@ button {
   font-size: 16px;
 }
 
-.container .content form button {
+button {
   border: 0;
   border-radius: 2px;
   width: 100%;
@@ -89,6 +89,6 @@ button {
   cursor: pointer;
 }
 
-.container .content form button:hover {
+button:hover {
   background: #e14f50;
 }
